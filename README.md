@@ -9,6 +9,8 @@ This project compared the cumulative weekly returns of the S&P 500 over the thre
 # Table of Contents:
 - Visualizing Crashes in Assets: Compares the relative performance of various assets against the S&P 500 over the Dotcom crash, Global Financial Crisis, and the current performance after January 2022.
 - Visualizing Crashes in SP500: Compares the recovery performance of the S&P 500 between the Oil crisis, Dotcom crash, Global Financial Crisis, and the current performance after January 2022.
-
-
-
+- Assets 5 Years After Dotcom: GIF of the relative performance of various asset classes 5 years after the Dotcom crash.
+- Assets 5 Years After GFC: GIF of the relative performance of various asset classes 5 years after the GFC.
+- Assets 63 Weeks After 2022 Crash: GIF of the relative performance of various asset classes 63 weeks after January 2022 (as time goes on, the # of weeks will increase).
+- SP500 5 Years After Market Crashes: GIF of the S&P 500’s performance over the 5 years after the oil crisis, the Dotcom crash, the GFC, and the current performance since January 2022.
+- SP500 69 Weeks After Market Crashes: GIF of the S&P 500’s performance over the 69 weeks after the oil crisis, the Dotcom crash, the GFC, and the current performance since January 2022 (as time goes on, the # of weeks will increase).
